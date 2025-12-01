@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "女狐",
+  "base_artist": "Roce",
+  "createdAt": "2025-12-01T09:08:07.191564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "女狐",
+      "artist": "ロス",
+      "has_synced": true,
+      "path": "select/01_女狐_ロス.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "女狐恋物語",
+      "artist": "加藤伎乃",
+      "has_synced": false,
+      "path": "select/pl_01_女狐恋物語_加藤伎乃.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "女狐",
+      "artist": "加藤伎乃",
+      "has_synced": false,
+      "path": "select/pl_02_女狐_加藤伎乃.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "女狐恋物語",
+      "artist": "加藤伎乃",
+      "has_synced": false,
+      "path": "select/pl_03_女狐恋物語_加藤伎乃.txt"
+    }
+  ]
+}
